@@ -35,6 +35,10 @@ Here are some ideas to get you started:-->
 <br />
 <br />
 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Afajal95&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -43,7 +47,7 @@ Here are some ideas to get you started:-->
 <br />
 <br />
 
-<h1>Visitor Count:</h1> ![Visitor Count](https://profile-counter.glitch.me/Afajal95/count.svg)
+Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/Afajal95/count.svg)
 
 
 [linkedin]: https://www.linkedin.com/in/afajal-meman-557291116/
