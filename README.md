@@ -17,6 +17,6 @@ Here are some ideas to get you started:-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afajal95)](https://github.com/Afajal95/github-readme-stats)
 
-[![Afajal's GitHub stats](https://github-readme-stats.vercel.app/api/GitHub?username=Afajal95)](https://github.com/Afajal95/github-readme-stats)
+
 
 
