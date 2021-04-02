@@ -21,10 +21,7 @@ Here are some ideas to get you started:-->
 
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Afajal95&show_icons=true&locale=en&layout=compact&theme=radical" alt="Afajal95" /></p>
-<br /><br />
-<br />
-<br />
-<br />
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Afajal95&theme=radical" alt="Afajal95" /></p>
