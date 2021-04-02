@@ -16,3 +16,5 @@ Here are some ideas to get you started:-->
 
 [![Afajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afajal95)](https://github.com/Afajal95/github-readme-stats)
 
+![Afajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afajal95&show_icons=true)
+
