@@ -12,3 +12,7 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: abu
 - ⚡ Fun fact: In my childhood, I used to eat wet soil, today also I used to get cravings when I see wet soil somewhere...lol
 
+
+
+[![Afajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afajal95)](https://github.com/Afajal95/github-readme-stats)
+
