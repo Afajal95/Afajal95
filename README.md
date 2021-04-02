@@ -39,6 +39,11 @@ Here are some ideas to get you started:-->
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Afajal95&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Afajal95&theme=onedark)](https://github.com/Afajal95/Afajal95)
+<div>
+ 
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Afajal95&show_icons=true&locale=en&layout=compact&theme=radical" alt="Afajal95" /></p>
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
