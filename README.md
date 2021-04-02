@@ -12,20 +12,27 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: abu
 - ⚡ Fun fact: In my childhood, I used to eat wet soil, today also I used to get cravings when I see wet soil somewhere...lol
 
+<br />
+
 
 ![Afajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afajal95&show_icons=true&theme=radical)
 <br /><br />
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Afajal95&show_icons=true&locale=en&layout=compact&theme=radical" alt="Afajal95" /></p>
 
-<br />
-<br />
-<br />
-<br />
-<br/>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Afajal95&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 <br />
-<h3 align="left">### Languages and Tools:</h3>
+<br />
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Afajal95&theme=onedark)](https://github.com/Afajal95/Afajal95)
+<div>
+ <br />
+ <br />
+ 
+ 
+ <h3 align="left">### Languages and Tools:</h3>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -38,21 +45,6 @@ Here are some ideas to get you started:-->
 
 <br />
 <br />
-
-
-
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Afajal95&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
-
-<br />
-<br />
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Afajal95&theme=onedark)](https://github.com/Afajal95/Afajal95)
-<div>
- <br />
- <br />
 
 
 ### Connect with me:
