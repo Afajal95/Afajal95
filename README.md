@@ -18,16 +18,24 @@ Here are some ideas to get you started:-->
 ![Afajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afajal95&show_icons=true&theme=radical)
 <br /><br />
 
+
+
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Afajal95&show_icons=true&locale=en&layout=compact&theme=radical" alt="Afajal95" /></p>
 <br /><br />
 <br />
 <br />
 
 
+
+
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Afajal95&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 <br />
 <br />
+
+
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Afajal95&theme=onedark)](https://github.com/Afajal95/Afajal95)
