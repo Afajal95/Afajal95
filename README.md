@@ -25,7 +25,7 @@ Here are some ideas to get you started:-->
 <br />
 <br />
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Afajal95&theme=radical" alt="Afajal95" /></p>
 
 
 
