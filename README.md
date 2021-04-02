@@ -42,7 +42,8 @@ Here are some ideas to get you started:-->
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 <br />
-Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/Afajal95/count.svg)
+
+<h1>Visitor Count:</h1> ![Visitor Count](https://profile-counter.glitch.me/Afajal95/count.svg)
 
 
 [linkedin]: https://www.linkedin.com/in/afajal-meman-557291116/
